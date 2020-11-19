@@ -39,6 +39,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
      * Gradient information of the loaded volume.
      */
     private GradientVolume gradients = null;
+    //add a comment here
 
     /**
      * Reference to the GUI panel.
